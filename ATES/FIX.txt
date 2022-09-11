@@ -1,0 +1,4 @@
+---COSAS QUE ARREGLA---
+-Crear el respawn
+-Crear un mundo que sea hasta que te mueras 
+- Crear 2 funciones nuevas. 
